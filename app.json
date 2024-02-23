@@ -1,4 +1,7 @@
 {
   "name": "FairFlatPrice",
-  "displayName": "FairFlatPrice"
+  "displayName": "FairFlatPrice",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-3725787040297957~7537079162"
+  }
 }
